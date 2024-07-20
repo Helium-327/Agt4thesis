@@ -1,6 +1,7 @@
 # Agt4thesis
 
-> Agt4thesis —— 一个为科研小白量身定做的个人知识库
+
+> Agt4thesis —— 一个基于 [`InternLLM`](https://github.com/InternLM)开发的，为科研小白量身定做的个人知识库
 
 🧐 你是研究人员吗？你是否会有阅读论文的焦虑？是否觉得AI大模型工具回答太过于笼统，不够具体？
 
